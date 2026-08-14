@@ -17,12 +17,12 @@
 ## 💫 About Me
 
 👨‍💻 **CSE Student, AI/ML & Backend Enthusiast**  
-I am a passionate Computer Science and Engineering student diving deep into **Machine Learning, Data Science, and Scalable Backend Systems**. I love building intelligent workflows, automating data pipelines, and developing clean software solutions.
+I am a passionate Computer Science and Engineering student diving deep into **Machine Learning, Data Science, and Scalable Backend Systems**. I love building intelligent workflows, automating data pipelines, and developing clean web applications.
 
 > *"Code is not just syntax, it's a tool to solve real-world problems and build intelligent solutions."*
 
 * 🧠 **I’m currently learning:** Machine Learning algorithms, Data Science pipelines, and Deep Learning.
-* 🔭 **I’m currently working on:** Full-stack backend architectures, automation pipelines, and ML prototypes.
+* 🔭 **I’m currently working on:** Backend APIs, automation workflows, and ML prototypes.
 * 👯 **I’m looking to collaborate on:** Open-source AI/ML tools, backend APIs, and web automation projects.
 * 💬 **Ask me about:** Python, Machine Learning basics, Pandas, Playwright, and FastAPI.
 * ⚡ **Fun fact:** I love automating repetitive workflows so algorithms do the heavy lifting!
@@ -45,39 +45,6 @@ I am a passionate Computer Science and Engineering student diving deep into **Ma
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><b>smart-Find</b></h3>
-      <p align="center">
-        A streamlined search and utility tool built for fast querying and optimized task handling.
-      </p>
-      <p align="center">
-        <b>Tech:</b> TypeScript, Node.js
-      </p>
-      <p align="center">
-        <a href="https://github.com/sadik004/smart-Find"><b>View Repository ↗</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><b>Smart Web Scraper & Form Automator</b></h3>
-      <p align="center">
-        Automated data extraction and sequential form filling pipeline using browser automation and data parsing.
-      </p>
-      <p align="center">
-        <b>Tech:</b> Python, Playwright, Pandas
-      </p>
-      <p align="center">
-        <a href="https://github.com/sadik004"><b>View Repository ↗</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
