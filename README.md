@@ -1,120 +1,170 @@
-<!-- 🌊 আল্ট্রা-স্মুথ ওয়েভ মোশন হেডার -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=210&section=header&text=Md.%20Moynul%20Hasan%20Sadik&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
-  
-  <!-- 💫 ডায়নামিক টাইপিং মোশন (স্টেবল সার্ভার) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=CSE+Student+%7C+Problem+Solver;Frontend+Designer+%26+Developer;Python+%26+Backend+Development;Machine+Learning+Enthusiast;Web+Scraping+%26+Automation" alt="Typing SVG" />
-  </a>
+<!-- ===================== HERO ===================== -->
 
-  <!-- 👁️ লাইভ ভিউজ ব্যাজ -->
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=sadik004&style=flat-square&color=00F7FF&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:06B6D4&height=220&section=header&text=Md.%20Moynul%20Hasan%20Sadik&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%"/>
+
+<h3>Computer Science & Engineering Student • Developer • AI/ML Enthusiast</h3>
+
+<p>
+  <a href="https://github.com/sadik004">
+    <img src="https://img.shields.io/github/followers/sadik004?label=Followers&style=for-the-badge&logo=github&color=0E7490"/>
+  </a>
+  <a href="https://github.com/sadik004">
+    <img src="https://komarev.com/ghpvc/?username=sadik004&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS"/>
+  </a>
+</p>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+Clean+%26+Modern+Web+Experiences;Python+%7C+FastAPI+%7C+REST+APIs;Machine+Learning+%26+Data+Science;Web+Automation+%26+Browser+Automation;Problem+Solving+%26+DSA" />
+</a>
 
 <br/>
 
-## 💫 About Me
-
-👨‍💻 **CSE Student, Frontend Designer & AI/ML Enthusiast**  
-I am a Computer Science and Engineering student passionate about **modern frontend design, machine learning pipelines, and backend development**. I love turning ideas into clean, interactive user experiences and automated workflows.
-
-> *"Designing clean user interfaces and building efficient solutions."*
-
-* 🎨 **I’m passionate about:** Frontend design, clean UI/UX, and responsive layouts.
-* 🧠 **I’m currently learning:** Machine Learning algorithms, Data Science pipelines, and Deep Learning.
-* 🔭 **I’m currently working on:** Interactive web apps, backend APIs, and automation scripts.
-* 👯 **I’m looking to collaborate on:** Open-source frontend designs, AI/ML tools, and automation workflows.
-* 💬 **Ask me about:** Frontend Design, Python, Playwright, Machine Learning, and REST APIs.
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://facebook.com/moynulsadik15" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/sadik_moynul" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/_moynul_sadik" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:your_email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </div>
 
 ---
 
-## 💻 Tech Stack
+<!-- ===================== ABOUT ===================== -->
 
-### 🎨 Frontend & UI/UX Design
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,figma&theme=dark" alt="Frontend Skills" />
-</div>
+## 👨‍💻 About Me
 
-<br/>
+I'm a **Computer Science & Engineering student** interested in building practical software systems that combine **frontend development, backend engineering, automation, and machine learning**.
 
-### 🧠 Machine Learning & Data Science
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,vscode&theme=dark" alt="ML Environment" />
-  <br/><br/>
-  <a href="#">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  </a>
-</div>
+I enjoy taking an idea from **concept → architecture → implementation → automation**.
 
-<br/>
+- 🔭 Currently building **web applications, backend APIs & automation systems**
+- 🧠 Learning **Machine Learning, Deep Learning & Data Science**
+- ⚙️ Working with **Python, FastAPI, Playwright & PostgreSQL**
+- 🎨 Interested in **modern UI/UX and frontend architecture**
+- 🧩 Practicing **Data Structures & Algorithms**
+- 🤖 Exploring **AI-powered automation and intelligent systems**
+- 🤝 Open to collaborating on **interesting open-source projects**
 
-### ⚙️ Backend, Languages & Databases
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,fastapi,supabase,postgres,sqlite,git,github,postman&theme=dark" alt="Backend Skills" />
-  <br/><br/>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  </a>
-</div>
+> **"Build systems that are simple to use, efficient to run, and easy to maintain."**
 
 ---
 
-## 📈 Activity Trend
+<!-- ===================== CURRENT FOCUS ===================== -->
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadik004&theme=tokyo-night&hide_border=true&area=true" width="98%" />
-</div>
+## 🚀 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 AI & Machine Learning
+
+- Machine Learning Algorithms
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+- Deep Learning Fundamentals
+- AI-powered Applications
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Backend & Automation
+
+- FastAPI
+- REST API Design
+- PostgreSQL
+- Redis
+- Playwright
+- Web Automation
+- Background Jobs
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 Analytics & Stats
+<!-- ===================== TECH STACK ===================== -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadik004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadik004&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+## 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadik004&theme=tokyonight&hide_border=true" width="97%" />
-</div>
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,js,ts&theme=dark" />
+</p>
+
+### 🎨 Frontend & UI
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,figma&theme=dark" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase&theme=dark" />
+</p>
+
+### 🧠 Data Science & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=anaconda,jupyter&theme=dark" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### 🤖 Automation & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Automation-0F172A?style=for-the-badge&logo=selenium&logoColor=white"/>
+</p>
 
 ---
 
-## 💬 Random Developer Quote
+<!-- ===================== PROJECTS ===================== -->
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
+## 🔥 Featured Projects
 
-<br/>
+### 🛒 Shopify Auto-Fulfillment Engine
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=100&section=footer" width="100%"/>
-</div>
+> Automated order processing and supplier fulfillment architecture.
+
+**Stack:**  
+`FastAPI` `Redis` `PostgreSQL` `Celery/RQ` `Shopify API`
+
+**Architecture:**
+
+```text
+Shopify
+   │
+   ▼
+Webhook
+   │
+   ▼
+FastAPI
+   │
+   ▼
+Redis Queue
+   │
+   ▼
+Background Worker
+   │
+   ▼
+Supplier API
+   │
+   ▼
+Order Fulfillment
