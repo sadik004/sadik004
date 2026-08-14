@@ -16,7 +16,7 @@
 
 ## 💫 About Me
 
-👨‍💻 **CSE Student, Frontend Designer & AI/ML Enthusiast**  
+👨‍💻 **CSE Student, Frontend Designer & AI/ML Learner**  
 I am a passionate Computer Science and Engineering student focused on building **modern, responsive user interfaces, machine learning pipelines, and robust backend architectures**. I enjoy transforming complex logic into visually aesthetic, high-performance web experiences.
 
 > *"Designing seamless user interfaces and powering them with intelligent backend solutions."*
