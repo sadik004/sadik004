@@ -20,17 +20,17 @@
 
 ## 💫 About Me
 
-👨‍💻 **CSE Student, Frontend Designer & AI/ML Enthusiast**
+👨‍💻 **CSE Student, Frontend Developer & AI/ML Enthusiast**
 
-I am a Computer Science and Engineering student passionate about **modern frontend design, machine learning, backend development, and automation**. I love turning ideas into clean, interactive user experiences and efficient software solutions.
+I am a Computer Science and Engineering student passionate about **modern frontend development, machine learning, backend development, and automation**. I enjoy turning ideas into clean interfaces, efficient APIs, and practical software solutions.
 
-> *"Designing clean user interfaces and building efficient solutions."*
+> *"Designing clean interfaces and building efficient solutions."*
 
-* 🎨 **I’m passionate about:** Frontend design, clean UI/UX, and responsive layouts.
-* 🧠 **I’m currently learning:** Machine Learning, Data Science pipelines, and Deep Learning.
-* 🚀 **I’m currently working on:** Interactive web apps, FastAPI backends, and automation scripts.
-* 🤝 **I’m looking to collaborate on:** Open-source frontend designs, AI/ML tools, and automation workflows.
-* 💬 **Ask me about:** Frontend Development, Python, FastAPI, Playwright, and Machine Learning.
+* 🎨 **I’m passionate about:** Frontend development, UI/UX, and responsive web experiences.
+* 🧠 **I’m currently learning:** Machine Learning, Data Science, and Deep Learning.
+* 🚀 **I’m currently working on:** Interactive web applications, FastAPI backends, and automation scripts.
+* 🤝 **I’m looking to collaborate on:** Open-source projects, AI/ML tools, frontend applications, and automation workflows.
+* 💬 **Ask me about:** Python, Frontend Development, FastAPI, Machine Learning, Playwright, and REST APIs.
 
 ---
 
@@ -68,27 +68,19 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 # 💻 Tech Stack
 
-### 🎨 Frontend & UI/UX Design
+### 🎨 Frontend Development
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,figma&theme=dark"/>
-
-</div>
-
-<br/>
-
-### 🧠 Machine Learning & Data Science
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=anaconda,jupyter&theme=dark"/>
-
-&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48"/>
 
 </div>
 
@@ -98,47 +90,82 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,c&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c&theme=dark" width="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48"/>
 
 </div>
 
 <br/>
 
-### ⚙️ Backend & Databases
+### 🧠 Machine Learning & Data Science
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=anaconda&theme=dark" width="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="48"/>
+&nbsp;
 
-&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/REST%20API-0F172A?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/API%20Development-0F172A?style=flat-square&logo=postman&logoColor=white"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/EDA-0F172A?style=flat-square&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Feature%20Engineering-0F172A?style=flat-square&logoColor=white"/>
 
 </div>
 
 <br/>
 
-### 🛠️ Development Tools
+### ⚙️ Backend Development
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48"/>
 
 </div>
 
 <br/>
 
-### 🕷️ Automation & Web Scraping
+### 🗄️ Databases
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=playwright&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48"/>
+&nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48"/>
 
-&nbsp;&nbsp;
+</div>
 
-<img src="https://img.shields.io/badge/Web%20Scraping-0F172A?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Browser%20Automation-0F172A?style=flat-square&logo=playwright&logoColor=white"/>
+<br/>
+
+### 🕷️ Web Scraping & Automation
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=playwright&theme=dark" width="48"/>
+
+</div>
+
+<br/>
+
+### 🎨 UI/UX Design
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48"/>
 
 </div>
 
