@@ -4,7 +4,7 @@
   
   <!-- অ্যানিমেটেড টাইপিং সাবটাইটেল -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=CSE+Student+%7C+Problem+Solver;Python+%26+Backend+Developer;Web+Scraping+%26+Automation+Expert;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=CSE+Student+%7C+Problem+Solver;AI+%2F+Machine+Learning+Enthusiast;Python+%26+Backend+Developer;Web+Scraping+%26+Automation+Expert" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,16 +12,16 @@
 
 ## 💫 About Me
 
-👨‍💻 **CSE Student & Python Developer**  
-I am a passionate Computer Science and Engineering student focused on **Backend Development, Web Automation, and Data Processing**. I love transforming repetitive tasks into automated pipelines and building clean, scalable backend systems.
+👨‍💻 **CSE Student, AI/ML & Backend Enthusiast**  
+I am a passionate Computer Science and Engineering student diving deep into **Machine Learning, Data Science, and Scalable Backend Systems**. I love building intelligent workflows, training predictive models, and automating data pipelines.
 
-> *"Code is not just syntax, it's a tool to solve real-world problems and create impact."*
+> *"Code is not just syntax, it's a tool to solve real-world problems and build intelligent solutions."*
 
-* 🔭 **I’m currently working on:** Full-stack and automation solutions like **ELEVATE** and data scrapers.
-* 🌱 **I’m currently learning:** Advanced FastAPI architecture, database optimizations, and system design.
-* 👯 **I’m looking to collaborate on:** Open-source Python projects, backend APIs, and web automation tools.
-* 💬 **Ask me about:** Python, Web Scraping (Playwright), FastAPI, REST APIs, and SQL.
-* ⚡ **Fun fact:** I love writing automation scripts that do hours of manual work in seconds!
+* 🧠 **I’m currently learning:** Machine Learning, Deep Learning concepts, and Data Science pipelines.
+* 🔭 **I’m currently working on:** Full-stack, automation workflows, and ML project prototypes.
+* 👯 **I’m looking to collaborate on:** Open-source AI/ML projects, backend APIs, and automation tools.
+* 💬 **Ask me about:** Python, Machine Learning basics, Pandas, Playwright, and FastAPI.
+* ⚡ **Fun fact:** I love letting algorithms do the heavy lifting—from automated scrapers to predictive models!
 
 ---
 
@@ -46,6 +46,15 @@ I am a passionate Computer Science and Engineering student focused on **Backend 
 
 ## 💻 Tech Stack
 
+### 🧠 Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+</p>
+
 ### 🚀 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -64,10 +73,9 @@ I am a passionate Computer Science and Engineering student focused on **Backend 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### 🤖 Automation & Data Tools
+### 🤖 Automation & Tools
 <p>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
