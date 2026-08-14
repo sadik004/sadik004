@@ -17,12 +17,12 @@
 ## 💫 About Me
 
 👨‍💻 **CSE Student, AI/ML & Backend Enthusiast**  
-I am a passionate Computer Science and Engineering student diving deep into **Machine Learning, Data Science, and Scalable Backend Systems**. I love building intelligent workflows, automating data pipelines, and developing clean web applications.
+I am a passionate Computer Science and Engineering student diving deep into **Machine Learning, Data Science, and Scalable Backend Systems**. I love building intelligent workflows, automating data pipelines, and developing clean software solutions.
 
 > *"Code is not just syntax, it's a tool to solve real-world problems and build intelligent solutions."*
 
 * 🧠 **I’m currently learning:** Machine Learning algorithms, Data Science pipelines, and Deep Learning.
-* 🔭 **I’m currently working on:** Smart web scrapers, backend APIs, and ML prototypes.
+* 🔭 **I’m currently working on:** Full-stack backend architectures, automation pipelines, and ML prototypes.
 * 👯 **I’m looking to collaborate on:** Open-source AI/ML tools, backend APIs, and web automation projects.
 * 💬 **Ask me about:** Python, Machine Learning basics, Pandas, Playwright, and FastAPI.
 * ⚡ **Fun fact:** I love automating repetitive workflows so algorithms do the heavy lifting!
@@ -55,10 +55,10 @@ I am a passionate Computer Science and Engineering student diving deep into **Ma
     <td width="50%">
       <h3 align="center"><b>smart-Find</b></h3>
       <p align="center">
-        An intelligent search and discovery tool built for efficient filtering, fast lookups, and optimized workflow navigation.
+        A streamlined search and utility tool built for fast querying and optimized task handling.
       </p>
       <p align="center">
-        <b>Tech:</b> TypeScript, JavaScript
+        <b>Tech:</b> TypeScript, Node.js
       </p>
       <p align="center">
         <a href="https://github.com/sadik004/smart-Find"><b>View Repository ↗</b></a>
@@ -67,7 +67,7 @@ I am a passionate Computer Science and Engineering student diving deep into **Ma
     <td width="50%">
       <h3 align="center"><b>Smart Web Scraper & Form Automator</b></h3>
       <p align="center">
-        Automated data extraction and sequential form filling pipeline using Playwright and Pandas data parsing.
+        Automated data extraction and sequential form filling pipeline using browser automation and data parsing.
       </p>
       <p align="center">
         <b>Tech:</b> Python, Playwright, Pandas
