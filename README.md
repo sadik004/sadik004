@@ -68,180 +68,35 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 # 💻 Tech Stack
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- FRONTEND -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ### 🎨 Frontend & UI/UX Design
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-
-<img src="https://skillicons.dev/icons?i=html&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=css&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=js&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=html&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=css&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=js&theme=dark" height="55"/>
-
-</marquee>
+<img src="./assets/frontend.svg" width="100%" alt="Frontend Skills"/>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- MACHINE LEARNING -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### 🧠 Machine Learning & Data Science
 
-<marquee behavior="scroll" direction="right" scrollamount="4">
-
-<img src="https://skillicons.dev/icons?i=anaconda&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="55"/>
-
-</marquee>
+<img src="./assets/machine-learning.svg" width="100%" alt="Machine Learning Skills"/>
 
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- BACKEND -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### ⚙️ Backend, Languages & Databases
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=c&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=git&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=github&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=postman&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
-
-</marquee>
+<img src="./assets/backend.svg" width="100%" alt="Backend Skills"/>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- AUTOMATION -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ### 🕷️ Automation & Web Scraping
 
-<marquee behavior="scroll" direction="right" scrollamount="4">
-
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-
-</marquee>
+<img src="./assets/automation.svg" width="100%" alt="Automation Skills"/>
 
 ---
 
-<!-- 📺 LIVE NEWS STYLE TICKER -->
+<!-- 📺 NEWS TICKER -->
 
 <div align="center">
 
-<table width="100%">
-<tr>
-
-<td width="110" align="center">
-
-<b>📢 UPDATE</b>
-
-</td>
-
-<td>
-
-<marquee behavior="scroll" direction="left" scrollamount="6">
-
-🚀 Learning Machine Learning
-&nbsp;&nbsp; • &nbsp;&nbsp;
-⚡ Building FastAPI Backends
-&nbsp;&nbsp; • &nbsp;&nbsp;
-🎨 Exploring Modern Frontend Design
-&nbsp;&nbsp; • &nbsp;&nbsp;
-🧠 Practicing DSA
-&nbsp;&nbsp; • &nbsp;&nbsp;
-🕷️ Working with Playwright
-&nbsp;&nbsp; • &nbsp;&nbsp;
-🤖 Exploring AI Automation
-&nbsp;&nbsp; • &nbsp;&nbsp;
-💻 Building • Learning • Improving
-
-</marquee>
-
-</td>
-
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=%F0%9F%93%A2+UPDATE+%E2%80%A2+Learning+Machine+Learning+%E2%80%A2+Building+FastAPI+Backends+%E2%80%A2+Exploring+Modern+Frontend;%F0%9F%9A%80+BUILDING+%E2%80%A2+Practicing+DSA+%E2%80%A2+Working+with+Playwright+%E2%80%A2+Exploring+AI+Automation;%F0%9F%92%BB+BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+IMPROVING" alt="Developer News Ticker"/>
 
 </div>
 
