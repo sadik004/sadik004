@@ -72,7 +72,7 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,figma&theme=dark"/>
 
 </div>
 
@@ -82,9 +82,9 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=anaconda,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=anaconda,jupyter&theme=dark"/>
 
-&nbsp;
+&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -94,11 +94,36 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 <br/>
 
-### ⚙️ Backend, Languages & Databases
+### 💻 Programming Languages
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,c,fastapi,postgres,sqlite,git,github,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c&theme=dark"/>
+
+</div>
+
+<br/>
+
+### ⚙️ Backend & Databases
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite&theme=dark"/>
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/REST%20API-0F172A?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Development-0F172A?style=flat-square&logo=postman&logoColor=white"/>
+
+</div>
+
+<br/>
+
+### 🛠️ Development Tools
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman&theme=dark"/>
 
 </div>
 
@@ -108,11 +133,12 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=playwright&theme=dark"/>
 
-&nbsp;
+&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Scraping-0F172A?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Browser%20Automation-0F172A?style=flat-square&logo=playwright&logoColor=white"/>
 
 </div>
 
