@@ -4,7 +4,7 @@
   
   <!-- 💫 ডায়নামিক মাল্টি-লাইন টাইপিং মোশন -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+Student+%7C+Problem+Solver;Frontend+Designer+%26+Developer;Python+%26+Backend+Architecture;Machine+Learning+Enthusiast;Web+Scraping+%26+Automation+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+Student+%7C+Problem+Solver;Frontend+Designer+%26+Developer;Python+%26+Backend+Architecture;Machine+Learning ;Web+Scraping+%26+Automation+Learner" alt="Typing SVG" />
   </a>
 
   <!-- 👁️ লাইভ প্রোফাইল ভিউজ মেট্রিক -->
