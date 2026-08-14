@@ -1,29 +1,47 @@
-## 🌐 Connect With Me
+## 💻 Tech Stack
 
-<div align="center">
+### 🎨 Frontend & UI/UX Design
 
-<a href="https://github.com/sadik004">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
+<div align="left">
 
-<a href="https://facebook.com/moynulsadik15">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,figma&theme=dark" />
 
-<a href="https://x.com/sadik_moynul">
-<img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
+</div>
 
-<a href="https://instagram.com/_moynul_sadik">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
+---
 
-<a href="mailto:your_email@example.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### 🧠 Machine Learning & Data Science
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=anaconda,jupyter&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+
+</div>
+
+---
+
+### ⚙️ Backend, Languages & Databases
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,c,fastapi,postgres,sqlite,git,github,postman&theme=dark" />
+
+</div>
+
+---
+
+### 🕷️ Automation & Web Scraping
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 
 </div>
