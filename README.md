@@ -6,6 +6,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=CSE+Student+%7C+Problem+Solver;AI+%2F+Machine+Learning+Enthusiast;Python+%26+Backend+Developer;Web+Scraping+%26+Automation+Expert" alt="Typing SVG" />
   </a>
+
+  <!-- লাইভ প্রোফাইল ভিউজ -->
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=sadik004&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>
@@ -13,15 +17,15 @@
 ## 💫 About Me
 
 👨‍💻 **CSE Student, AI/ML & Backend Enthusiast**  
-I am a passionate Computer Science and Engineering student diving deep into **Machine Learning, Data Science, and Scalable Backend Systems**. I love building intelligent workflows, training predictive models, and automating data pipelines.
+I am a passionate Computer Science and Engineering student diving deep into **Machine Learning, Data Science, and Scalable Backend Systems**. I love building intelligent workflows, automating data pipelines, and developing clean web applications.
 
 > *"Code is not just syntax, it's a tool to solve real-world problems and build intelligent solutions."*
 
-* 🧠 **I’m currently learning:** Machine Learning, Deep Learning concepts, and Data Science pipelines.
-* 🔭 **I’m currently working on:** Full-stack, automation workflows, and ML project prototypes.
-* 👯 **I’m looking to collaborate on:** Open-source AI/ML projects, backend APIs, and automation tools.
+* 🧠 **I’m currently learning:** Machine Learning algorithms, Data Science pipelines, and Deep Learning.
+* 🔭 **I’m currently working on:** Full-stack architectures, automation workflows, and ML model integrations.
+* 👯 **I’m looking to collaborate on:** Open-source AI/ML tools, backend APIs, and web automation projects.
 * 💬 **Ask me about:** Python, Machine Learning basics, Pandas, Playwright, and FastAPI.
-* ⚡ **Fun fact:** I love letting algorithms do the heavy lifting—from automated scrapers to predictive models!
+* ⚡ **Fun fact:** I love automating repetitive workflows so algorithms do the heavy lifting!
 
 ---
 
@@ -41,6 +45,39 @@ I am a passionate Computer Science and Engineering student diving deep into **Ma
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><b>ELEVATE E-Commerce</b></h3>
+      <p align="center">
+        A modern, responsive e-commerce web platform with optimized product detail pages and seamless user experience.
+      </p>
+      <p align="center">
+        <b>Tech:</b> JavaScript, HTML5, CSS3
+      </p>
+      <p align="center">
+        <a href="https://github.com/sadik004/ELEVATE-Premium-Luxury-Boys-Fashion"><b>View Repository ↗</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><b>Smart Web Scraper & Form Automator</b></h3>
+      <p align="center">
+        Automated data extraction and sequential form filling pipeline using Playwright and Pandas data parsing.
+      </p>
+      <p align="center">
+        <b>Tech:</b> Python, Playwright, Pandas
+      </p>
+      <p align="center">
+        <a href="https://github.com/sadik004"><b>View Repository ↗</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,7 +128,15 @@ I am a passionate Computer Science and Engineering student diving deep into **Ma
 
 ---
 
-## 📊 GitHub Analytics & Stats
+## 📈 Activity Trend
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadik004&theme=tokyo-night&hide_border=true&area=true" width="97%" />
+</div>
+
+---
+
+## 📊 Analytics & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadik004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
