@@ -1,49 +1,29 @@
-## 💻 Tech Stack
+## 🌐 Connect With Me
 
-### 🎨 Frontend & UI/UX Design
+<div align="center">
 
-<div align="left">
+<a href="https://github.com/sadik004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,figma&theme=dark" />
+<a href="https://facebook.com/moynulsadik15">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
 
-</div>
+<a href="https://x.com/sadik_moynul">
+<img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
 
-<br/>
+<a href="https://instagram.com/_moynul_sadik">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
 
-### 🧠 Machine Learning & Data Science
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=anaconda,jupyter&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-</div>
-
-<br/>
-
-### ⚙️ Backend, Languages & Databases
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=python,c,fastapi,postgres,sqlite,git,github,postman&theme=dark" />
-
-</div>
-
-<br/>
-
-### 🕷️ Automation & Web Scraping
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<a href="mailto:your_email@example.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
