@@ -1,132 +1,124 @@
-<!-- হেডার অ্যানিমেশন ও টাইটেল -->
+<!-- 🌌 সাইবার-মোশন হেডার ব্যানার -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=190&section=header&text=Md.%20Moynul%20Hasan%20Sadik&fontSize=38&fontColor=ffffff&animation=twinkling" width="100%"/>
-  
-  <!-- অ্যানিমেটেড টাইপিং সাবটাইটেল -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,20,50,100&height=220&section=header&text=⚡%20MOYNUL%20HASAN%20SADIK%20⚡&fontSize=40&fontColor=00F7FF&animation=twinkling" width="100%"/>
+
+  <br/>
+
+  <!-- 💫 নিয়ন টাইপিং মোশন টেক্সট -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=CSE+Student+%7C+Problem+Solver;Frontend+Designer+%26+Full-Stack+Dev;AI+%2F+Machine+Learning+Enthusiast;Web+Scraping+%26+Automation+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=FRONTEND+%26+UI%2FUX+DESIGNER;MACHINE+LEARNING+%26+DATA+SYSTEMS;PYTHON+%26+BACKEND+ARCHITECT;WEB+AUTOMATION+ENGINEER" alt="Neon Typing SVG" />
   </a>
 
-  <!-- লাইভ প্রোফাইল ভিউজ -->
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=sadik004&style=flat-square&color=blueviolet&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br/>
+
+  <!-- 🔮 রিয়েল-টাইম সাইবার ভিউজ মিটার -->
+  <img src="https://komarev.com/ghpvc/?username=sadik004&style=for-the-badge&color=00F7FF&labelColor=0d1117&label=CYBER+VISITORS" alt="Profile Views" />
 </div>
 
 <br/>
 
-## 💫 About Me
+---
 
-👨‍💻 **CSE Student, Frontend Designer & AI/ML Enthusiast**  
-I am a passionate Computer Science and Engineering student focused on building **modern, responsive user interfaces, machine learning pipelines, and robust backend architectures**. I enjoy transforming complex logic into visually aesthetic, high-performance web experiences.
+### 🕹️ Interactive Tech Matrix
 
-> *"Designing seamless user interfaces and powering them with intelligent backend solutions."*
+<div align="center">
+  <!-- Frontend & UI/UX -->
+  <h4>🎨 Frontend & UI/UX Experience</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,figma&theme=dark" alt="Frontend Matrix" />
+  
+  <br/><br/>
 
-* 🎨 **I’m passionate about:** Frontend design, clean UI/UX, and modern responsive styling.
-* 🧠 **I’m currently learning:** Machine Learning algorithms, Data Science, and full-stack integration.
-* 🔭 **I’m currently working on:** Interactive web interfaces, backend APIs, and automation scripts.
-* 👯 **I’m looking to collaborate on:** Open-source frontend designs, AI/ML tools, and automation workflows.
-* 💬 **Ask me about:** Frontend Design, Python, Playwright, Machine Learning, and REST APIs.
+  <!-- Core Backend & Automation -->
+  <h4>⚙️ Backend, Core & Automation</h4>
+  <img src="https://skillicons.dev/icons?i=python,c,fastapi,supabase,postgres,postman,git&theme=dark" alt="Backend Matrix" />
+
+  <br/><br/>
+
+  <!-- Machine Learning & Environment -->
+  <h4>🧠 Machine Learning & Data Suite</h4>
+  <img src="https://skillicons.dev/icons?i=anaconda,vscode&theme=dark" alt="Tools Matrix" />
+  <br/><br/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/NumPy-00F7FF?style=for-the-badge&logo=numpy&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Pandas-FF0055?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Scikit_Learn-FFAA00?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Playwright-00FF66?style=for-the-badge&logo=playwright&logoColor=black"/>
+  </a>
+</div>
+
+<br/>
 
 ---
 
-## 🌐 Connect With Me
+### 🏆 Hall of Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sadik004&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%" />
+</div>
+
+<br/>
+
+---
+
+### 📈 Dynamic Analytics & Performance
+
+<div align="center">
+  <!-- নিয়ন অ্যাক্টিভিটি ওয়েভ -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadik004&bg_color=0d1117&color=00f7ff&line=00ff9d&point=ffffff&area_color=00f7ff33&area=true&hide_border=true" width="98%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- নিয়ন গিটহাব স্ট্যাটস -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sadik004&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00f7ff&icon_color=00ff9d&text_color=ffffff" width="48%" />
+  
+  <!-- টপ ল্যাঙ্গুয়েজ পাই/বার -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadik004&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" width="48%" />
+</div>
+
+<div align="center">
+  <!-- স্ট্রীক মোশন কাউন্টার -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadik004&theme=radical&hide_border=true&background=0d1117&ring=00f7ff&fire=00ff9d&currStreakLabel=00f7ff" width="97%" />
+</div>
+
+<br/>
+
+---
+
+### 💬 Live Terminal Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" alt="Dev Quote" />
+</div>
+
+<br/>
+
+---
+
+### ⚡ Signal & Social Uplink
 
 <div align="center">
   <a href="https://facebook.com/moynulsadik15" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://x.com/sadik_moynul" target="_blank">
     <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  &nbsp;
   <a href="https://instagram.com/_moynul_sadik" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:your_email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Encrypted_Mail-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-</div>
-
----
-
-## 💻 Tech Stack
-
-### 🎨 Frontend & UI/UX Design
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### 🧠 Machine Learning & Data Science
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-</p>
-
-### ⚙️ Backend, Languages & Databases
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### 🤖 Automation & Development Tools
-<p>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadik004&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Activity Trend
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadik004&theme=tokyo-night&hide_border=true&area=true" width="97%" />
-</div>
-
----
-
-## 📊 Analytics & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadik004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadik004&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadik004&theme=tokyonight&hide_border=true" width="97%" />
-</div>
-
----
-
-## 💬 Random Developer Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 <br/>
 
+<!-- 🌌 সাইবার-মোশন ফুটার -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,20,50,100&height=120&section=footer" width="100%"/>
 </div>
