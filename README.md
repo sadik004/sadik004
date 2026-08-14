@@ -1,13 +1,13 @@
 <!-- 🌊 আল্ট্রা-স্মুথ ওয়েভ মোশন হেডার -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=220&section=header&text=Md.%20Moynul%20Hasan%20Sadik&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=210&section=header&text=Md.%20Moynul%20Hasan%20Sadik&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
   
-  <!-- 💫 ডায়নামিক মাল্টি-লাইন টাইপিং মোশন -->
+  <!-- 💫 ডায়নামিক টাইপিং মোশন (স্টেবল সার্ভার) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=CSE+Student+%7C+Problem+Solver;Frontend+Designer+%26+Developer;Python+%26+Backend+Architecture;Machine+Learning ;Web+Scraping+%26+Automation+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=CSE+Student+%7C+Problem+Solver;Frontend+Designer+%26+Developer;Python+%26+Backend+Development;Machine+Learning+Enthusiast;Web+Scraping+%26+Automation" alt="Typing SVG" />
   </a>
 
-  <!-- 👁️ লাইভ প্রোফাইল ভিউজ মেট্রিক -->
+  <!-- 👁️ লাইভ ভিউজ ব্যাজ -->
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=sadik004&style=flat-square&color=00F7FF&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
@@ -16,17 +16,16 @@
 
 ## 💫 About Me
 
-👨‍💻 **CSE Student, Frontend Designer & AI/ML Learner**  
-I am a passionate Computer Science and Engineering student focused on building **modern, responsive user interfaces, machine learning pipelines, and robust backend architectures**. I enjoy transforming complex logic into visually aesthetic, high-performance web experiences.
+👨‍💻 **CSE Student, Frontend Designer & AI/ML Enthusiast**  
+I am a Computer Science and Engineering student passionate about **modern frontend design, machine learning pipelines, and backend development**. I love turning ideas into clean, interactive user experiences and automated workflows.
 
-> *"Designing seamless user interfaces and powering them with intelligent backend solutions."*
+> *"Designing clean user interfaces and building efficient solutions."*
 
-* 🎨 **I’m passionate about:** Frontend design, clean UI/UX, and modern responsive styling.
+* 🎨 **I’m passionate about:** Frontend design, clean UI/UX, and responsive layouts.
 * 🧠 **I’m currently learning:** Machine Learning algorithms, Data Science pipelines, and Deep Learning.
-* 🔭 **I’m currently working on:** Interactive web interfaces, backend APIs, and automation scripts.
+* 🔭 **I’m currently working on:** Interactive web apps, backend APIs, and automation scripts.
 * 👯 **I’m looking to collaborate on:** Open-source frontend designs, AI/ML tools, and automation workflows.
 * 💬 **Ask me about:** Frontend Design, Python, Playwright, Machine Learning, and REST APIs.
-* ⚡ **Fun fact:** I love letting code handle repetitive tasks so algorithms do the heavy lifting!
 
 ---
 
@@ -83,26 +82,6 @@ I am a passionate Computer Science and Engineering student focused on building *
     <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   </a>
-</div>
-
----
-
-## 🐍 Contribution Activity Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sadik004/sadik004/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sadik004/sadik004/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/sadik004/sadik004/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadik004&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
