@@ -110,7 +110,6 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 &nbsp;
 <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="48"/>
 &nbsp;
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -118,9 +117,7 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-
-<br/><br/>
-
+&nbsp;
 <img src="https://img.shields.io/badge/EDA-0F172A?style=flat-square&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Feature%20Engineering-0F172A?style=flat-square&logoColor=white"/>
