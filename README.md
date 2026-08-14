@@ -22,7 +22,7 @@ I am a passionate Computer Science and Engineering student diving deep into **Ma
 > *"Code is not just syntax, it's a tool to solve real-world problems and build intelligent solutions."*
 
 * 🧠 **I’m currently learning:** Machine Learning algorithms, Data Science pipelines, and Deep Learning.
-* 🔭 **I’m currently working on:** Full-stack architectures, automation workflows, and ML model integrations.
+* 🔭 **I’m currently working on:** Smart web scrapers, backend APIs, and ML prototypes.
 * 👯 **I’m looking to collaborate on:** Open-source AI/ML tools, backend APIs, and web automation projects.
 * 💬 **Ask me about:** Python, Machine Learning basics, Pandas, Playwright, and FastAPI.
 * ⚡ **Fun fact:** I love automating repetitive workflows so algorithms do the heavy lifting!
@@ -53,15 +53,15 @@ I am a passionate Computer Science and Engineering student diving deep into **Ma
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center"><b>ELEVATE E-Commerce</b></h3>
+      <h3 align="center"><b>smart-Find</b></h3>
       <p align="center">
-        A modern, responsive e-commerce web platform with optimized product detail pages and seamless user experience.
+        An intelligent search and discovery tool built for efficient filtering, fast lookups, and optimized workflow navigation.
       </p>
       <p align="center">
-        <b>Tech:</b> JavaScript, HTML5, CSS3
+        <b>Tech:</b> TypeScript, JavaScript
       </p>
       <p align="center">
-        <a href="https://github.com/sadik004/ELEVATE-Premium-Luxury-Boys-Fashion"><b>View Repository ↗</b></a>
+        <a href="https://github.com/sadik004/smart-Find"><b>View Repository ↗</b></a>
       </p>
     </td>
     <td width="50%">
