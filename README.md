@@ -66,126 +66,175 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FRONTEND -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### 🎨 Frontend & UI/UX Design
 
-<table width="100%">
-<tr>
+<marquee behavior="scroll" direction="left" scrollamount="5">
 
-<td width="28%" valign="middle">
+<img src="https://skillicons.dev/icons?i=html&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-🎨 **Frontend & UI/UX Design**
+<img src="https://skillicons.dev/icons?i=css&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-</td>
+<img src="https://skillicons.dev/icons?i=js&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-<td width="72%" valign="middle">
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-</td>
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=html&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=css&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=js&theme=dark" height="55"/>
+
+</marquee>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- MACHINE LEARNING -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### 🧠 Machine Learning & Data Science
 
-<table width="100%">
-<tr>
+<marquee behavior="scroll" direction="right" scrollamount="4">
 
-<td width="28%" valign="middle">
+<img src="https://skillicons.dev/icons?i=anaconda&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-🧠 **Machine Learning & Data Science**
-
-</td>
-
-<td width="72%" valign="middle">
-
-<img src="https://skillicons.dev/icons?i=anaconda,jupyter&theme=dark"/>
-
-&nbsp;
+<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
 
-</td>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" height="55"/>
+
+</marquee>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- BACKEND -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ### ⚙️ Backend, Languages & Databases
 
-<table width="100%">
-<tr>
+<marquee behavior="scroll" direction="left" scrollamount="5">
 
-<td width="28%" valign="middle">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-⚙️ **Backend, Languages & Databases**
+<img src="https://skillicons.dev/icons?i=c&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-</td>
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-<td width="72%" valign="middle">
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=python,c,fastapi,postgres,sqlite,git,github,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-</td>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
+
+</marquee>
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- AUTOMATION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 ### 🕷️ Automation & Web Scraping
 
-<table width="100%">
-<tr>
+<marquee behavior="scroll" direction="right" scrollamount="4">
 
-<td width="28%" valign="middle">
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
 
-🕷️ **Automation & Web Scraping**
+<img src="https://img.shields.io/badge/BeautifulSoup-000000?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
 
-</td>
+<img src="https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
 
-<td width="72%" valign="middle">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="55"/>
+&nbsp;&nbsp;&nbsp;
 
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 
-</td>
-
-</tr>
-</table>
+</marquee>
 
 ---
 
-<!-- 📺 TV NEWS STYLE MOVING TICKER -->
+<!-- 📺 LIVE NEWS STYLE TICKER -->
 
 <div align="center">
 
 <table width="100%">
 <tr>
 
-<td width="12%" align="center">
+<td width="110" align="center">
 
 <b>📢 UPDATE</b>
 
 </td>
 
-<td width="88%">
+<td>
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
+<marquee behavior="scroll" direction="left" scrollamount="6">
 
-🚀 Currently Learning Machine Learning &nbsp; • &nbsp;
-⚡ Building FastAPI Backends &nbsp; • &nbsp;
-🎨 Exploring Modern Frontend Design &nbsp; • &nbsp;
-🧠 Practicing Data Structures & Algorithms &nbsp; • &nbsp;
-🕷️ Working with Playwright & Web Automation &nbsp; • &nbsp;
-🤖 Exploring AI-powered Applications &nbsp; • &nbsp;
-💻 Building. Learning. Improving.
+🚀 Learning Machine Learning
+&nbsp;&nbsp; • &nbsp;&nbsp;
+⚡ Building FastAPI Backends
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🎨 Exploring Modern Frontend Design
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🧠 Practicing DSA
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🕷️ Working with Playwright
+&nbsp;&nbsp; • &nbsp;&nbsp;
+🤖 Exploring AI Automation
+&nbsp;&nbsp; • &nbsp;&nbsp;
+💻 Building • Learning • Improving
 
 </marquee>
 
