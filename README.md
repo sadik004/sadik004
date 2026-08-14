@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=210&section=header&text=Md.%20Moynul%20Hasan%20Sadik&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=210&section=header&text=Md.%20Moynul%20Hasan%20Sadik&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=CSE+Student+%7C+Problem+Solver;Frontend+Designer+%26+Developer;Python+%26+FastAPI+Developer;Machine+Learning+Enthusiast;Web+Scraping+%26+Automation" alt="Typing SVG"/>
@@ -18,11 +16,9 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 ## 💫 About Me
-
-<div align="left">
 
 👨‍💻 **CSE Student, Frontend Designer & AI/ML Enthusiast**
 
@@ -36,15 +32,11 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 * 🤝 **I’m looking to collaborate on:** Open-source frontend designs, AI/ML tools, and automation workflows.
 * 💬 **Ask me about:** Frontend Development, Python, FastAPI, Playwright, and Machine Learning.
 
-</div>
-
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🌐 Connect With Me
 
-<div align="left">
+<div align="center">
 
 <a href="https://github.com/sadik004">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -74,24 +66,20 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 💻 Tech Stack
-
-<br/>
 
 ### 🎨 Frontend & UI/UX Design
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="250" valign="middle">
+<td width="28%" valign="middle">
 
-<strong>Frontend & UI/UX Design</strong>
+🎨 **Frontend & UI/UX Design**
 
 </td>
 
-<td valign="middle">
+<td width="72%" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,figma&theme=dark"/>
 
@@ -104,20 +92,20 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 ### 🧠 Machine Learning & Data Science
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="250" valign="middle">
+<td width="28%" valign="middle">
 
-<strong>Machine Learning & Data Science</strong>
+🧠 **Machine Learning & Data Science**
 
 </td>
 
-<td valign="middle">
+<td width="72%" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=anaconda,jupyter&theme=dark"/>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -132,16 +120,16 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 ### ⚙️ Backend, Languages & Databases
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="250" valign="middle">
+<td width="28%" valign="middle">
 
-<strong>Backend, Languages & Databases</strong>
+⚙️ **Backend, Languages & Databases**
 
 </td>
 
-<td valign="middle">
+<td width="72%" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=python,c,fastapi,postgres,sqlite,git,github,postman&theme=dark"/>
 
@@ -154,16 +142,16 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 ### 🕷️ Automation & Web Scraping
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="250" valign="middle">
+<td width="28%" valign="middle">
 
-<strong>Automation & Web Scraping</strong>
+🕷️ **Automation & Web Scraping**
 
 </td>
 
-<td valign="middle">
+<td width="72%" valign="middle">
 
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 
@@ -174,11 +162,47 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 📺 TV NEWS STYLE MOVING TICKER -->
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="12%" align="center">
+
+<b>📢 UPDATE</b>
+
+</td>
+
+<td width="88%">
+
+<marquee behavior="scroll" direction="left" scrollamount="5">
+
+🚀 Currently Learning Machine Learning &nbsp; • &nbsp;
+⚡ Building FastAPI Backends &nbsp; • &nbsp;
+🎨 Exploring Modern Frontend Design &nbsp; • &nbsp;
+🧠 Practicing Data Structures & Algorithms &nbsp; • &nbsp;
+🕷️ Working with Playwright & Web Automation &nbsp; • &nbsp;
+🤖 Exploring AI-powered Applications &nbsp; • &nbsp;
+💻 Building. Learning. Improving.
+
+</marquee>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
 
 ## 💬 Random Developer Quote
 
-<div align="left">
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 
@@ -186,10 +210,10 @@ I am a Computer Science and Engineering student passionate about **modern fronte
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🌊 FOOTER -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=100&section=footer" width="100%"/>
 
 </div>
