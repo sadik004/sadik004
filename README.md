@@ -4,7 +4,7 @@
   
   <!-- অ্যানিমেটেড টাইপিং সাবটাইটেল -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=CSE+Student+%7C+Problem+Solver;AI+%2F+Machine+Learning+Enthusiast;Python+%26+Backend+Developer;Web+Scraping+%26+Automation+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=CSE+Student+%7C+Problem+Solver;Frontend+Designer+%26+Full-Stack+Dev;AI+%2F+Machine+Learning+Enthusiast;Web+Scraping+%26+Automation+Expert" alt="Typing SVG" />
   </a>
 
   <!-- লাইভ প্রোফাইল ভিউজ -->
@@ -16,16 +16,16 @@
 
 ## 💫 About Me
 
-👨‍💻 **CSE Student, AI/ML & Backend Enthusiast**  
-I am a passionate Computer Science and Engineering student diving deep into **Machine Learning, Data Science, and Scalable Backend Systems**. I love building intelligent workflows, automating data pipelines, and developing clean web applications.
+👨‍💻 **CSE Student, Frontend Designer & AI/ML Enthusiast**  
+I am a passionate Computer Science and Engineering student focused on building **modern, responsive user interfaces, machine learning pipelines, and robust backend architectures**. I enjoy transforming complex logic into visually aesthetic, high-performance web experiences.
 
-> *"Code is not just syntax, it's a tool to solve real-world problems and build intelligent solutions."*
+> *"Designing seamless user interfaces and powering them with intelligent backend solutions."*
 
-* 🧠 **I’m currently learning:** Machine Learning algorithms, Data Science pipelines, and Deep Learning.
-* 🔭 **I’m currently working on:** Backend APIs, automation workflows, and ML prototypes.
-* 👯 **I’m looking to collaborate on:** Open-source AI/ML tools, backend APIs, and web automation projects.
-* 💬 **Ask me about:** Python, Machine Learning basics, Pandas, Playwright, and FastAPI.
-* ⚡ **Fun fact:** I love automating repetitive workflows so algorithms do the heavy lifting!
+* 🎨 **I’m passionate about:** Frontend design, clean UI/UX, and modern responsive styling.
+* 🧠 **I’m currently learning:** Machine Learning algorithms, Data Science, and full-stack integration.
+* 🔭 **I’m currently working on:** Interactive web interfaces, backend APIs, and automation scripts.
+* 👯 **I’m looking to collaborate on:** Open-source frontend designs, AI/ML tools, and automation workflows.
+* 💬 **Ask me about:** Frontend Design, Python, Playwright, Machine Learning, and REST APIs.
 
 ---
 
@@ -50,6 +50,17 @@ I am a passionate Computer Science and Engineering student diving deep into **Ma
 
 ## 💻 Tech Stack
 
+### 🎨 Frontend & UI/UX Design
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
 ### 🧠 Machine Learning & Data Science
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -59,25 +70,17 @@ I am a passionate Computer Science and Engineering student diving deep into **Ma
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 </p>
 
-### 🚀 Programming Languages
+### ⚙️ Backend, Languages & Databases
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### ⚙️ Backend, Frameworks & Databases
-<p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### 🤖 Automation & Tools
+### 🤖 Automation & Development Tools
 <p>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
