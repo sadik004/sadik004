@@ -1,80 +1,38 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🌊 HEADER -->
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=200&section=header&text=Md.%20Moynul%20Hasan%20Sadik&fontSize=38&fontColor=FFFFFF&fontAlignY=42&animation=twinkling"
-  width="100%"
-/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=210&section=header&text=Md.%20Moynul%20Hasan%20Sadik&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=CSE+Student+%7C+Problem+Solver;Frontend+Designer+%26+Developer;Python+%26+FastAPI+Developer;Machine+Learning+Enthusiast;Web+Scraping+%26+Automation"
-  alt="Typing SVG"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=CSE+Student+%7C+Problem+Solver;Frontend+Designer+%26+Developer;Python+%26+FastAPI+Developer;Machine+Learning+Enthusiast;Web+Scraping+%26+Automation" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=sadik004&style=flat-square&color=22D3EE&labelColor=0F172A&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=sadik004&style=flat-square&color=00F7FF&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 ## 💫 About Me
 
-<div align="center">
+👨‍💻 **CSE Student, Frontend Designer & AI/ML Enthusiast**
 
-### 👨‍💻 CSE Student • Frontend Developer • AI/ML Enthusiast
+I am a Computer Science and Engineering student passionate about **modern frontend design, machine learning, backend development, and automation**. I love turning ideas into clean, interactive user experiences and efficient software solutions.
 
-I enjoy building **clean user interfaces, practical backend systems,  
-machine learning solutions, and browser automation tools.**
+> *"Designing clean user interfaces and building efficient solutions."*
 
-> *"Design clean. Build smart. Solve problems."*
+* 🎨 **I’m passionate about:** Frontend design, clean UI/UX, and responsive layouts.
+* 🧠 **I’m currently learning:** Machine Learning, Data Science, and Deep Learning.
+* 🔭 **I’m currently working on:** Interactive web apps, FastAPI backends, and automation scripts.
+* 👯 **I’m looking to collaborate on:** Open-source frontend designs, AI/ML tools, and automation workflows.
+* 💬 **Ask me about:** Frontend Development, Python, FastAPI, Playwright, and Machine Learning.
 
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td>🎨 <b>Passionate About</b></td>
-<td>Frontend Design, UI/UX & Responsive Interfaces</td>
-</tr>
-
-<tr>
-<td>🧠 <b>Currently Learning</b></td>
-<td>Machine Learning, Data Science & Deep Learning</td>
-</tr>
-
-<tr>
-<td>🔭 <b>Currently Working On</b></td>
-<td>Web Apps, FastAPI Backends & Automation</td>
-</tr>
-
-<tr>
-<td>🤝 <b>Open To</b></td>
-<td>Open Source, AI/ML & Automation Projects</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       CONNECT                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 ## 🌐 Connect With Me
 
@@ -83,19 +41,19 @@ machine learning solutions, and browser automation tools.**
 <a href="https://github.com/sadik004">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://facebook.com/moynulsadik15">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://x.com/sadik_moynul">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://instagram.com/_moynul_sadik">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="mailto:your_email@example.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -104,17 +62,13 @@ machine learning solutions, and browser automation tools.**
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 ## 💻 Tech Stack
 
-### 🎨 Frontend & UI/UX
+### 🎨 Frontend & UI/UX Design
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,figma&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,figma&theme=dark" width="75%"/>
 
 </div>
 
@@ -124,23 +78,27 @@ machine learning solutions, and browser automation tools.**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,anaconda,jupyter&theme=dark&perline=3"/>
+<img src="https://skillicons.dev/icons?i=anaconda,jupyter&theme=dark"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </div>
 
 <br/>
 
-### ⚙️ Backend & Development
+### ⚙️ Backend, Languages & Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,git,github,postman&theme=dark&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,c,fastapi,postgres,sqlite,git,github,postman&theme=dark" width="80%"/>
 
 <br/><br/>
 
@@ -150,34 +108,18 @@ machine learning solutions, and browser automation tools.**
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       DEVELOPER QUOTE                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 💬 Random Developer Quote
 
 <div align="center">
 
-## 💬 Developer Mindset
-
-<br/>
-
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-  alt="Developer Quote"
-/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 
 </div>
 
-<br/><br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br/>
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:312E81,100:06B6D4&height=110&section=footer"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&height=100&section=footer" width="100%"/>
 
 </div>
